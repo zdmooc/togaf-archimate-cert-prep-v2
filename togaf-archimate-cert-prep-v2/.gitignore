@@ -1,0 +1,20 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated notes
+*.tmp
+*.bak
+
+# Archi / modeling exports
+*.png
+*.svg
+*.pdf
+*.html
+*.archimate.bak
